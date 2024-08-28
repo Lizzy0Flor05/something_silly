@@ -1,2 +1,3 @@
-# something_silly
-its a practice on how a repository works for cpsc 131 data structures 
+# Lab Week 0 Submission 
+
+My submission for Computer Science Course Name
